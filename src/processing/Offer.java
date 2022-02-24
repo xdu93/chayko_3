@@ -34,6 +34,7 @@ public class Offer {
         }
         out.printf("Сумма: %.2f руб. без НДС%n", sum);
         out.println("//.........................//");
+        out.println("bag_fixed");
     }
 
 }
